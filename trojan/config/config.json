@@ -9,8 +9,8 @@
     ],
     "log_level": 1,
     "ssl": {
-        "cert": "/ssl/www.shipovavpsjp.ml/www.shipovavpsjp.ml.crt",
-        "key": "/ssl/www.shipovavpsjp.ml/www.shipovavpsjp.ml.key",
+        "cert": "/ssl/www.shipovavpsjp.tk/www.shipovavpsjp.tk.crt",
+        "key": "/ssl/www.shipovavpsjp.tk/www.shipovavpsjp.tk.key",
         "key_password": "",
         "cipher_tls13":"TLS_AES_128_GCM_SHA256:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_256_GCM_SHA384",
         "prefer_server_cipher": true,
